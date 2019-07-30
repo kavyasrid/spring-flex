@@ -1,1 +1,1 @@
-# spring-flex
+# spring-flex-hibernate
